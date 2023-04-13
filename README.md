@@ -1,1 +1,1 @@
-#simple todo list application
+simple todo list application
